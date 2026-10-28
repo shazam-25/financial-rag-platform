@@ -1,2 +1,6 @@
-# financial-rag-platform
+# Enterprise Financial Document Intelligence & Secure RAG Platform
+
 A zero-trust, document-grounded generative AI assistant to parse complex financial filings, ensuring strict hallucination control and zero data leakage.
+
+---
+
